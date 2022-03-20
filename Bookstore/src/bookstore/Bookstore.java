@@ -7,7 +7,7 @@ package bookstore;
 
 /**
  *
- * @author alisa
+ * @author jingyi
  */
 public class Bookstore {
 
