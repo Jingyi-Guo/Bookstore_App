@@ -6,7 +6,7 @@
 package bookstore;
 
 /**
- *
+ *test
  * @author jingyi
  */
 public class Bookstore {
